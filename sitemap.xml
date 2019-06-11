@@ -9,15 +9,23 @@
 
 <url>
   <loc>http://tuibrest.by/</loc>
-  <lastmod>2019-06-09T19:09:13+00:00</lastmod>
+  <lastmod>2019-06-11T07:44:03+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://tuibrest.by/main</loc>
+  <lastmod>2019-06-11T07:44:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://tuibrest.by/products</loc>
-  <lastmod>2019-06-09T19:09:13+00:00</lastmod>
+  <lastmod>2019-06-11T07:44:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://tuibrest.by/contacts</loc>
-  <lastmod>2019-06-09T19:09:13+00:00</lastmod>
+  <lastmod>2019-06-11T07:44:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
